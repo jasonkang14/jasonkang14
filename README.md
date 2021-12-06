@@ -4,6 +4,8 @@
 
   </div>
   
+  <div display=flex>
+  
   [![Jason Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonkang14)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=medium&link=https://medium.com/@jasonkang14)](https://medium.com/@jasonkang14/)
@@ -12,6 +14,7 @@
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasonkang14@gmail.com)](mailto:jasonkang14@gmail.com)
   
+  </div>
 	
 <!--
 **jasonkang14/jasonkang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
