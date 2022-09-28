@@ -8,7 +8,7 @@
   
   [![Jason Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonkang14)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=medium&link=https://medium.com/@jasonkang14)](https://medium.com/@jasonkang14/)
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=medium&link=https://jasonkang14.github.io)](https://jasonkang14.github.io/)
 	
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byeongjinkang/)](https://www.linkedin.com/in/byeongjinkang/)
 	
